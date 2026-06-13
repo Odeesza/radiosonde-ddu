@@ -1,4 +1,4 @@
-# awaca_radiosonde
+# radiosonde-ddu
 
 Analysis of radiosonde profiles from station **89642 — Dumont d'Urville (DDU), Antarctica**.
 
